@@ -1,2 +1,50 @@
-﻿  PlayScene.cpp
-  project.vcxproj -> D:\project\4_ゲームプログラム\project_2\project\x64\Debug\project.exe
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_ja_gryph_ranges.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  App.cpp
+  main.cpp
+  ObjectManager.cpp
+  SceneManager.cpp
+  Time.cpp
+  BootScene.cpp
+  Field.cpp
+  Gameover.cpp
+  Player.cpp
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(25,6): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(26,6): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(50,40): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(50,32): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(51,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(51,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(62,40): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(62,32): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(63,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(63,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(76,40): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(76,32): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(77,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(77,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(88,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(88,31): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(92,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(92,34): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(93,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(93,34): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(106,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(106,34): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(107,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(107,34): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(117,18): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(127,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Documents\mayuru-000\project\Source\Player.cpp(127,17): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  PlayScene.cpp
+  SceneFactory.cpp
+  TitleScene.cpp
+  コードを生成中...
+  LINK : 前回のインクリメンタル リンクで C:\Users\student\Documents\mayuru-000\project\x64\Debug\project.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
+  project.vcxproj -> C:\Users\student\Documents\mayuru-000\project\x64\Debug\project.exe
