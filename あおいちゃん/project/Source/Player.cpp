@@ -2,6 +2,7 @@
 #include "Field.h"
 #include "GameOver.h"
 #include "Clear.h"
+#include "Stone.h"
 
 static const float Gravity = 0.2;
 static const float V0 = -10.0;
@@ -49,12 +50,26 @@ void Player::Update()
 		int push2 = field->HitCheckLeft(x + 14, y + 63);
 		x += max(push1, push2);
 	}
+	if (CheckHitKey(KEY_INPUT_Q)) {
+		if (!prevPush) {
+			for (int i = 0; i < 36; i++) {
+				new Stone(x + 32, y, 50.0f, (i * 10.0f));
+			}
+		}
+		prevPush = TRUE;
+	}
+	else
+	{
+		prevPush = FALSE;
+	}
+
 	if (onGround == true) {
 		if (CheckHitKey(KEY_INPUT_SPACE)) {
 			velocity = V0;
 			onGround = false;
 		}
 	}
+	
 
 	y += velocity;
 	velocity += Gravity;

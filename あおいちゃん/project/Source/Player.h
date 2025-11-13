@@ -14,4 +14,5 @@ private:
 	float x, y;
 	float velocity;
 	bool onGround;
+	bool prevPush;  
 };
